@@ -1,0 +1,14 @@
+CH3-P053-S1-D1 | narration | speech balloon (ellipse)
+The world seemed... familiar.
+
+CH3-P053-S1-N1 | narration | rectangular caption
+The world seemed... familiar.
+
+CH3-P053-S4-D1 | narration | speech balloon (ellipse)
+Until now, she would have agreed.
+
+CH3-P053-S4-N1 | narration | rectangular caption
+Until now, she would have agreed.
+
+CH3-P053-S5-D1 | internal_thought | speech balloon (ellipse)
+What happens when these paths meet?

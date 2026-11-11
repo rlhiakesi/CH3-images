@@ -1,0 +1,5 @@
+CH3-P056-S2-D1 | narration | speech balloon (ellipse)
+Two civilizations. Two successful paths. Neither sought conflict. Neither understood how different they had become. End of Chapter 3
+
+CH3-P056-S2-N1 | narration | rectangular narration box
+Two civilizations. Two successful paths. Neither sought conflict. Neither understood how different they had become. End of Chapter 3
